@@ -1,6 +1,5 @@
 This issue tracker is for issues with the Bitcoin Core project website at
 [bitcoincore.org](https://bitcoincore.org).
-
 [bitcoin.org](https://bitcoin.org) is not connected with or maintained by the
 Bitcoin Core project contributors. Issues with that website should be reported
 at [the bitcoin.org
